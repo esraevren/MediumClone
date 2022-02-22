@@ -1,0 +1,61 @@
+body {
+    font-family:'PT Serif', serif ;
+}
+
+
+.bg-yellow{
+    background-color: #FFC017;
+   
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid  rgba(41, 41, 41, 1);
+}
+
+.bg-image {
+        background-image: url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
+        background-size: 349px 353px;
+        background-repeat: no-repeat;
+        background-position: bottom 1px right 48px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 15px;
+    color: rgb(29, 29, 29);
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+.date {
+  color:  rgba(117, 117, 117, 1);
+  font-size: 13px;
+
+}
+
+.names {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(41, 41, 41, 1);
+    font-size: 13px;
+    font-weight: 500;
+} 
+
+.buttons {
+    border: 1px solid rgba(230, 230, 230, 1);
+    border-radius: 3px;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgb(156 156 156);
+    margin-bottom: 10px;
+    
+   
+}
+
+p {
+    color: rgb(156 156 156);
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
